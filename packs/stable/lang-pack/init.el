@@ -15,3 +15,7 @@
 (live-load-config-file "extempore-conf.el")
 (live-load-config-file "haskell-conf.el")
 (live-load-config-file "haml-mode.el")
+(live-load-config-file "s.el")
+(live-load-config-file "f.el")
+(live-load-config-file "let-alist.el")
+(live-load-config-file "elm-mode.el")
